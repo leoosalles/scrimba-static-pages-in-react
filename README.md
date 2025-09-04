@@ -1,0 +1,1 @@
+# scrimba-static-pages-in-react
